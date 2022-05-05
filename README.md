@@ -1,6 +1,6 @@
 ![Logo](/logo.ico)
 
-# eFlasher
+# eFlasher (x86_64)
 
 
 eFlasher , a tool for flashing Arch Linux, Debian, Raspbian &amp; Ubuntu ISOs to USBs / SD cards !
