@@ -11,6 +11,8 @@ Note : These Linux Distros are only for `x86_64` Architecture !
 
 Execute `make archlinux`, `make debian`, `make raspbian` or `make ubuntu` ...etc,  to start the Download & Flash Process !
 
+Run `make list` for List of Operating Systems !
+
 For more Information , run `make info`
 
 Thank You for Downloading it !
