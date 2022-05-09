@@ -5,13 +5,11 @@
 
 eFlasher , a tool for flashing Linux Distro's ISOs to USBs / SD cards !
 
-This tool uses x86_64 or x86 based Linux distros to flash to a Mounted USB Drive !
+This tool uses x86_64 based Linux distros to flash to a Mounted USB Drive !
 
-Available OS are : raspbian, debian, ubuntu, arch-linux
+Note : These Linux Distros are only for `x86_64` Architecture !
 
-Note : Arch Linux is only for x86_64, Debian is only for amd64, Raspbian is only for i386 and Ubuntu is only for amd64 !
-
-Execute `make archlinux`, `make debian`, `make raspbian` or `make ubuntu` to start the Download Process of the ISO and start the Flash Process !
+Execute `make archlinux`, `make debian`, `make raspbian` or `make ubuntu` ...etc,  to start the Download & Flash Process !
 
 For more Information , run `make info`
 
