@@ -3,7 +3,7 @@
 # eFlasher (x86_64)
 
 
-eFlasher , a tool for flashing Arch Linux, Debian, Raspbian &amp; Ubuntu ISOs to USBs / SD cards !
+eFlasher , a tool for flashing Linux Distro's ISOs to USBs / SD cards !
 
 This tool uses x86_64 or x86 based Linux distros to flash to a Mounted USB Drive !
 
