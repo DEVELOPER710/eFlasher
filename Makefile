@@ -9,9 +9,8 @@ info:
 	#                                                                                                       #
 	# This tool uses x86_64 based Linux distros to flash to a Mounted USB Drive !                           #
 	# Available OS are : raspbian, debian, ubuntu, arch-linux                                               #
-	# Note : Arch Linux is only for x86_64, Debian is only for amd64, Raspbian is only for i386             #
-	#   and Ubuntu is only for amd64 !                                                                      #
-	# Execute "make archlinux", "make debian", "make raspbian" or "make ubuntu"                             #
+	# Note : All Operating Systems from eFlasher are only for x86_64 Architecture !                         #
+	# Execute "make archlinux", "make debian", "make raspbian" or "make ubuntu" ...etc                      #
 	# Execute "make v" for Version Information ; or "make list" to list Operating Systems !                 #
 	#                                                                                                       #
 	#                                                                                                       #
